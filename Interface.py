@@ -9,14 +9,17 @@ from win32 import win32gui
 from tkinter import *
 pg.FAILSAFE = False
 
+
+#Dados privados
+
 config = {
-                'apiKey': "AIzaSyA6CRfSDccbFIRouIQqnu26wZWX8zPt2zA",
-                'authDomain': "scriptravendawn.firebaseapp.com",
-                'projectId': "scriptravendawn",
-                'storageBucket': "scriptravendawn.appspot.com",
-                'messagingSenderId': "546258299574",
-                'appId': "1:546258299574:web:11eb9d726603fb0dc49417",
-                'databaseURL' : "https://scriptravendawn-default-rtdb.firebaseio.com"
+                'apiKey': "",
+                'authDomain': "",
+                'projectId': "",
+                'storageBucket': "",
+                'messagingSenderId': "",
+                'appId': "",
+                'databaseURL' : ""
 }
 
 login = Tk()
