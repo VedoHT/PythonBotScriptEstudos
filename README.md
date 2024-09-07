@@ -1,4 +1,4 @@
-## Python + Firabase
+## Python + Firebase
 ## Estudo de Python criando um script para o jogo Ravendawn
   Este projeto contém um conjunto de códigos relacionados à estudar
   python voltado a desenvolver um script com pequenas funcionalidades
